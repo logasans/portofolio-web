@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(114, 125, 115);
+}
+div.body{
+    padding: 15px;
+    margin: 25px;
+    height: fit-content;
+    background-color: rgb(170, 185, 154);
+    border: 2px solid ;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+a {
+    color: rgb(208, 221, 208);
+    /*color:rgb(208, 221, 208, 0.8)*/
+}
+
+.peh {
+    color: rgb(75, 89, 69)
+    font-size: 16px;
+}
+
+.center {
+  text-align: center;
+}
+
+#potrait {
+  display: block;
+  margin: 0 auto;
+  width: 18.5%;
+  height: auto;
+}
+
+#header {
+  display: block;
+}
+
+#kolom-kiri {
+  float: left;
+}
+
